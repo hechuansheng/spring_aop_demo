@@ -22,6 +22,6 @@ public class UserController {
 
     public void loginOut() {
         System.out.println("loginOut request====>");
-        throw new RuntimeException("123");
+//        throw new RuntimeException("123");
     }
 }
